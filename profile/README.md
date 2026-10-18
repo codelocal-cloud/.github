@@ -23,7 +23,7 @@ We believe technology should be practical, accessible, and trustworthy. By devel
 | **[CodeLocal](https://github.com/codelocal-cloud/CodeLocal)** | A shared Project Brain and controlled local tooling that connect compatible AI coding clients to the projects they work on. | Active development |
 | **[OpenRide](https://github.com/codelocal-cloud/OpenRide)** | Open-source mobility marketplace infrastructure that supports driver choice, rider choice, and community-operated services. | Pre-1.0 |
 | **[OpenBattle](https://github.com/codelocal-cloud/OpenBattle)** | An experimental multiplayer social-survival game built around cooperation, trust, and meaningful player decisions. | Pre-alpha |
-| **[OpenPolymarket](https://github.com/codelocal-cloud/OpenPolymarket)** | An early-stage repository; its public scope and documentation are still being prepared. | Incubating |
+| **[OpenPolyEngine](https://github.com/codelocal-cloud/OpenPolyEngine)** | Newly created public repository; its documentation and implementation are not available yet. | Incubating |
 
 Projects are developed independently and may be experimental. Each repository's documentation is the source of truth for features, licenses, security considerations, and production readiness.
 
