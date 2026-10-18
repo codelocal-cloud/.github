@@ -1,74 +1,56 @@
-    <div align="center">
+# CodeLocal Cloud
 
-    # CodeLocal Cloud
+**Open technology. Meaningful impact.**
 
-    ### Open technology. Meaningful impact.
+We build and support open-source technology that helps people solve real problems, learn new skills, and create opportunities for their communities.
 
-    **We build and support open-source software that makes technology more useful, accessible, and empowering for everyone.**
+[Website](https://codelocal.cloud) · [Explore projects](https://github.com/orgs/codelocal-cloud/repositories) · [Community forum](https://codelocal.cloud/forums)
 
-    [Explore our projects](https://github.com/orgs/codelocal-cloud/repositories) · [Visit our website](https://codelocal.cloud) · [Join the community](https://codelocal.cloud/forums)
+---
 
-    </div>
+## Our mission
 
-    ---
+**CodeLocal Cloud** is a community-oriented technology organization dedicated to building useful software, sharing knowledge, and supporting open collaboration.
 
-    ## Who we are
+We believe technology should be practical, accessible, and trustworthy. By developing in the open, we aim to help individuals and organizations understand, adapt, and improve the tools they rely on.
 
-    **CodeLocal Cloud** is a technology organization dedicated to creating and supporting practical, open-source solutions for people and communities.
+> **Build useful technology. Share knowledge openly. Create lasting value for society.**
 
-    We believe great software should do more than demonstrate technical capability. It should solve meaningful problems, reduce barriers, respect users, and give others the freedom to learn, adapt, and build upon it.
+## Our projects
 
-    Our mission is simple:
+| Project | What we're building | Stage |
+| --- | --- | --- |
+| **[CodeLocal](https://github.com/codelocal-cloud/CodeLocal)** | A shared Project Brain and controlled local tooling that connect compatible AI coding clients to the projects they work on. | Active development |
+| **[OpenRide](https://github.com/codelocal-cloud/OpenRide)** | Open-source mobility marketplace infrastructure that supports driver choice, rider choice, and community-operated services. | Pre-1.0 |
+| **[OpenBattle](https://github.com/codelocal-cloud/OpenBattle)** | An experimental multiplayer social-survival game built around cooperation, trust, and meaningful player decisions. | Pre-alpha |
+| **[OpenPolymarket](https://github.com/codelocal-cloud/OpenPolymarket)** | An early-stage repository; its public scope and documentation are still being prepared. | Incubating |
 
-    > **Build useful technology. Share knowledge openly. Create lasting value for society.**
+Projects are developed independently and may be experimental. Each repository's documentation is the source of truth for features, licenses, security considerations, and production readiness.
 
-    We work across developer productivity, artificial intelligence, digital infrastructure, mobility, and interactive experiences. Different projects, one shared purpose: **turn good ideas into technology people can actually use.**
+## Our principles
 
-    ## Our projects
+- **Purpose before hype.** Focus on solutions that bring real value to people and communities.
+- **Open by nature.** Share knowledge, invite feedback, and create space for meaningful contributions.
+- **Accessible to more people.** Reduce barriers to learning, using, and improving technology.
+- **Trust through transparency.** Clearly communicate limitations, progress, and security assumptions.
+- **Built for the long term.** Prioritize maintainable systems and responsible engineering.
 
-    | Project | Focus | Development status |
-    | :--- | :--- | :--- |
-    | **[CodeLocal](https://github.com/codelocal-cloud/CodeLocal)** | Shared project knowledge and controlled local tooling for AI-assisted software development. | Active development |
-    | **[OpenRide](https://github.com/codelocal-cloud/OpenRide)** | Open-source mobility marketplace infrastructure designed around driver choice, rider choice, and community-operated services. | Pre-1.0 |
-    | **[OpenBattle](https://github.com/codelocal-cloud/OpenBattle)** | Experimental multiplayer social-survival game exploring cooperation, trust, and player-driven decisions. | Pre-alpha |
-    | **[OpenPolymarket](https://github.com/codelocal-cloud/OpenPolymarket)** | Early-stage repository; its public scope and documentation have not yet been published. | Incubating |
+## Join the community
 
-    Each project has its own goals, roadmap, license, and level of maturity. Please check its repository for the latest implementation details and readiness information.
+Open source grows through many kinds of contributions. Whether you write code, test software, improve documentation, translate content, report bugs, or share ideas, your perspective matters.
 
-    ## What guides our work
+Explore a repository, read its contribution guidelines, and start a discussion or pull request. For CodeLocal-related questions, visit our [community forum](https://codelocal.cloud/forums).
 
-    **Useful by design.** We focus on real needs and tangible benefits, not technology for its own sake.
+**You don't have to be a developer to make a difference.**
 
-    **Open and collaborative.** We value shared knowledge, clear documentation, constructive feedback, and contributions from the wider community.
+## Tiếng Việt — Sứ mệnh của chúng tôi
 
-    **Freedom to build.** We aim to create systems people can understand, extend, and adapt to their own contexts.
+**CodeLocal Cloud là tổ chức xây dựng, chia sẻ và hỗ trợ các dự án mã nguồn mở nhằm tạo ra những tiện ích thiết thực, có ích cho cộng đồng và xã hội.**
 
-    **Trust through transparency.** We communicate limitations, development status, and security considerations without overstating what a project can do.
+Chúng tôi tin rằng công nghệ nên dễ tiếp cận, minh bạch và mang lại giá trị thực tế. Thông qua việc phát triển phần mềm, chia sẻ kiến thức và hợp tác cùng cộng đồng, chúng tôi mong muốn giúp nhiều người có cơ hội học hỏi, sáng tạo và phát triển những giải pháp hữu ích, bền vững.
 
-    **Built to last.** We favor maintainable engineering, responsible decisions, and steady improvement over short-lived hype.
+---
 
-    ## Build with us
+**Made for people. Built in the open. Improved together.**
 
-    Open source grows stronger when more people can participate. You can contribute by reporting issues, proposing improvements, testing releases, refining documentation, translating content, or submitting pull requests.
-
-    Start with the README and contribution guidelines in the repository that interests you. For questions and discussion about CodeLocal, visit the [community forums](https://codelocal.cloud/forums).
-
-    **You don't have to write code to make a meaningful contribution.** Thoughtful feedback and real-world use cases are just as valuable.
-
-    ## Sứ mệnh của CodeLocal Cloud
-
-    **CodeLocal Cloud là tổ chức xây dựng và hỗ trợ các dự án công nghệ mã nguồn mở, hướng đến việc tạo ra những tiện ích thiết thực và giá trị bền vững cho xã hội.**
-
-    Chúng tôi tin rằng công nghệ tốt cần dễ tiếp cận, có tính minh bạch và trao cho mọi người khả năng học hỏi, sử dụng, cải tiến và phát triển thêm. Bằng tinh thần chia sẻ và hợp tác, chúng tôi mong muốn cùng cộng đồng biến những ý tưởng hữu ích thành sản phẩm thực tế.
-
-    ---
-
-    <div align="center">
-
-    **Technology should create opportunities, not barriers.**
-
-    [GitHub organization](https://github.com/codelocal-cloud) · [All repositories](https://github.com/orgs/codelocal-cloud/repositories) · [Website](https://codelocal.cloud)
-
-    *Built in the open. Improved together.*
-
-    </div>
+[GitHub organization](https://github.com/codelocal-cloud) · [All repositories](https://github.com/orgs/codelocal-cloud/repositories) · [Website](https://codelocal.cloud)
